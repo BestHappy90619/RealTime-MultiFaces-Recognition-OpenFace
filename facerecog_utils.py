@@ -1,10 +1,3 @@
-"""
-Created on Mon May 28 04:16:47 2018
-
-@author: dmdm02
-
-The loading model codes is modified from Andrew Ng's deep learning course.
-"""
 import numpy as np
 import cv2
 import os

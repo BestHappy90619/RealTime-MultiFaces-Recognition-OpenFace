@@ -1,10 +1,3 @@
-"""
-Created on Tue Jun  5 04:54:09 2018
-
-@author: dmdm02
-
-This code file is to augment image data and generate database
-"""
 import random
 import numpy as np
 import skimage as sk

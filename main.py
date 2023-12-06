@@ -1,8 +1,3 @@
-"""
-Created on Mon May 28 03:59:56 2018
-
-@author: dmnguyen92
-"""
 from keras.models import Sequential
 from keras.layers import Conv2D, ZeroPadding2D, Activation, Input, concatenate
 from keras.models import Model, load_model, model_from_json
